@@ -86,9 +86,9 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
    
  **4.** **🎉  Open your browser and go to  `https://localhost:3000`**
  
-## Contributors 🤝
- - [**Mihir Gupta**](https://github.com/mihir0699)  
- - [**Devansh Gera**](https://github.com/Devforlife07)
+
+  
+
  
  
 ## 🤩 Don't forget to give this repo a ⭐ if you like this repo and want to appreciate our efforts
